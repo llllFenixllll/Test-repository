@@ -1,2 +1,2 @@
 # Test-repository
-just a simple repository
+Roses are red and the sky is blue
